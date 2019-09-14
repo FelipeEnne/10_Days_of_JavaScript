@@ -9,7 +9,7 @@
 
 
 
-13/09/2019
+#### 13/09/2019
 
 Day 0: Hello, Word!
 Neste desafio, se analisa alguns conceitos básicos.
@@ -32,3 +32,17 @@ Day 0: Data Types
 
 
 
+
+#### 14/09/2019
+
+Day 1: Arithmetic Operators
+* Operator Types;
+* Arithmetic Operators.
+
+
+Day 1: Functions
+* Functions;
+* Recursion.
+
+Day 1: Let and Const 
+* var let const.
