@@ -46,3 +46,25 @@ Day 1: Functions
 
 Day 1: Let and Const 
 * var let const.
+
+
+
+#### 15/09/2019
+
+Day 2: Conditional Statements: If-Else
+* Equality Operators;
+* Inequality Operators;
+* Relational Operators;
+* Logical Operators;
+* Falsy Values;
+* Conditional (Ternary) Operator.
+
+
+Day 2: Conditional Statements: Switch
+* Switch Statements;
+* String Basics;
+* String Methods.
+
+
+Day 2: Loops
+* for while do-while for-in for-of.
