@@ -8,7 +8,7 @@ let currentLine = 0;
 
 process.stdin.on('data', inputStdin => {
     if (inputStdin == -1){
-            console.log(inputStdin);
+            //console.log(inputStdin);
             inputString = inputString.trim().split('\n').map(string => {
             return string.trim();
             });
