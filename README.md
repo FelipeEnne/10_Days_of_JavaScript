@@ -68,3 +68,29 @@ Day 2: Conditional Statements: Switch
 
 Day 2: Loops
 * for while do-while for-in for-of.
+
+#### 16/09/2019
+
+Day 3: Arrays 
+* Create an Array;
+* Access (Index Into) an Array Item;
+* Loop Over an Array;
+* Append to the End of an Array;
+* Remove From the Front of an Array;
+* Add to the Front of an Array;
+* Find the Index of an Item in the Array;
+* Remove an Item by Index Position;
+* Copy an Array;
+* Sort an Array;
+* Iterate Over an Array.
+
+
+Day 3: Try, Catch, and Finally
+* String Basics;
+* String Constructor.
+
+
+Day 3: Throw
+* JavaScript Errors;
+* Try, Catch, and Finally;
+* Throw.
