@@ -94,3 +94,29 @@ Day 3: Throw
 * JavaScript Errors;
 * Try, Catch, and Finally;
 * Throw.
+
+
+
+#### 17/09/2019
+
+Day 4 Create a Rectangle Object
+* Object Basics;
+* Creating Objects.
+
+
+Day 4: Count Objects
+* Basic for Loop;
+* The for...in Statement;
+* The forEach Method.
+
+Day 4: Classes 
+* Functional Classes;
+* Classes;
+* The Constructor Method;
+* Static Methods;
+* Inheritance;
+* Subclassing with the extends Keyword;
+* Superclass Calls Using the super Keyword;
+* Superclass Calls Using the super Keyword;
+* Extending an Object.
+
