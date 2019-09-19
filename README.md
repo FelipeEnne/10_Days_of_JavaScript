@@ -120,3 +120,24 @@ Day 4: Classes
 * Superclass Calls Using the super Keyword;
 * Extending an Object.
 
+#### 19/09/2019
+
+Day 5: Inheritance
+* Functional Classes;
+* Classes;
+* The Constructor Method;
+* Prototype Methods;
+* Static Methods;
+* Inheritance;
+* Subclassing with the extends Keyword;
+* Superclass Calls Using the super Keyword;
+* Extending an Object.
+
+Day 5: Template Literals
+* Multi-line Strings;
+* Expression Interpolation;
+* Tagged Template Literals.
+
+Day 5: Template Literals
+* Arrow Functions;
+* Using Arrow Functions.
