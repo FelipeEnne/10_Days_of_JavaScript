@@ -141,3 +141,21 @@ Day 5: Template Literals
 Day 5: Template Literals
 * Arrow Functions;
 * Using Arrow Functions.
+
+#### 20/09/2019
+
+Day 6: Bitwise Operators
+* Binary Number Basics;
+* Base-10 (Decimal) to Base-2 (Binary) Conversions;
+* Base-2 (Binary) to Base-10 (Decimal) Conversions;
+* Representing Negative Base-10 (Decimal) to Base-2 (Binary);
+* Bitwise Operation Conventions;
+* Bitwise AND (&);
+* Bitwise OR (|);
+* Bitwise XOR (^);
+* Bitwise NOT.
+
+Day 6: JavaScript Dates
+* Date;
+* Creating Date Instance;
+* Date get Methods.
