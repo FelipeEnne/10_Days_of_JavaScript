@@ -159,3 +159,18 @@ Day 6: JavaScript Dates
 * Date;
 * Creating Date Instance;
 * Date get Methods.
+
+
+#### 01/10/2019
+
+Day 7: Regular Expressions in JavaScript
+* Creating a Regular Expression;
+* Regular Expression Patterns;
+* Flags;
+* Special Characters in Regular Expressions;
+* Character Classes;
+* Character Sets;
+* Match;
+* Search;
+* Split;
+* Example.
