@@ -174,3 +174,13 @@ Day 7: Regular Expressions in JavaScript
 * Search;
 * Split;
 * Example.
+
+
+
+#### 05/10/2019
+
+Day 8: Create a Button
+* In this challenge, we practice creating buttons in JavaScript. 
+
+Day 8: Buttons Container
+* In this challenge, we lay out buttons inside a div and modify their labels after each click event on one of the buttons. 
