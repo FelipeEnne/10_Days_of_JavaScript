@@ -184,3 +184,10 @@ Day 8: Create a Button
 
 Day 8: Buttons Container
 * In this challenge, we lay out buttons inside a div and modify their labels after each click event on one of the buttons. 
+
+
+
+#### 07/10/2019
+
+Day 9: Binary Calculator 
+* In this challenge, we implement a calculator that uses binary numbers. 
